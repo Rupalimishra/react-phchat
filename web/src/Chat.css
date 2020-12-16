@@ -1,0 +1,30 @@
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 30px;
+    min-height: 30rem;
+  }
+  
+  form {
+    padding: 20px;
+  }
+  
+  .name-field {
+    margin-bottom: 40px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px;
+    background: transparent;
+    border-radius: 5px;
+  }
+  
+  .render-chat {
+    
+    padding: 20px;
+    
+  }
+  
+  
+  

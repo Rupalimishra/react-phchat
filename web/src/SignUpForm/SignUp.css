@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    padding-top: 0;
+    font-family: Helvetica Neue, Helvetica;
+    background: #f7f7f7;
+  }
+  
+  h3 {
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+  }
+  
+  form {
+    padding: 0 40px;
+  }
+  
+  form input {
+    
+    width: 30%;
+    font-size: 20px;
+    padding: 9px;
+    margin: 10px 0;
+    border-radius: 0;
+    border: 1px solid #c3c3c3;
+  }
+  
+  form button {
+   
+    width: 20%;
+    appearance: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #f3f3f3;
+    border-radius: 0;
+    border: none;
+    border:  1px solid #c3c3c3;
+    font-size: 16px;
+    height: 40px;
+    margin-top: 30px;
+    padding: 11px;
+  }
+  
+  form button:hover {
+    background-color: lightgray;
+    color: black;
+  }
+  
+  form button:disabled {
+    background-color: #dbf99f;
+    /* color: #333; */
+  }
+  .main-heading {
+    font-size: 2.5rem;
+    font-weight: 500;
+    margin-bottom: 8px;
+    text-align: center;
+   
+  }
+  .signup {
+    text-align: center;
+    font-size: inherit;
+  }
+  .main-top-style{
+    padding-top: 100px;
+  }
+  .popup-style{
+    width: 52%;
+    background-color: #f55;
+    padding: 10px;
+    position: relative;
+    left: 268px;
+    bottom: 158px;
+    font-weight: bold;
+    color: white;
+
+
+  }
+  
